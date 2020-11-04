@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<accessrules>
+			<accessrule kind="accessible" pattern="**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.12.jar"/>
+	<classpathentry kind="lib" path="lib/easyexcel-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15on-1.60.jar"/>
+	<classpathentry kind="lib" path="lib/log4j_1.2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-beanutils-1.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-betwixt-0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.11.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbutils-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/zip4j-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/xom-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.23.jar"/>
+	<classpathentry kind="lib" path="lib/lombok-1.16.6.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-validator-5.3.6.Final.jar"/>
+	<classpathentry kind="lib" path="lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="lib/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
